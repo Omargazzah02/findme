@@ -1,1 +1,1 @@
-Ce n'est pas la version finale. En effet, j'utilise des méthodes statiques dans cette version pour le calcul de la durée et de la distance, contrairement à la version principale.
+Ce n'est pas la version finale. En effet, c'est juste une démo, c'est pourquoi j'utilise des méthodes statiques au lieu d'APIs.
